@@ -13,19 +13,19 @@
 
 <div>
     <strong>Front End:</strong> 
-  <img src="images/html.png" alt="html5" width="30px" height="30px" styles="display:inline"/>
+  <img src="html.png" alt="html5" width="30px" height="30px" styles="display:inline"/>
   <span>HTML5 &nbsp;&nbsp;</span>
 
-  <img src="https://github.com/dschreiter/images/blob/master/css.png" alt="css" width="30px" height="30px"/>
+  <img src="css.png" alt="css" width="30px" height="30px"/>
   <span>CSS3 &nbsp;&nbsp;</span>
 
-  <img src="https://github.com/dschreiter/images/blob/master/javascript.png" alt="javascript" width="30px" height="30px"/>
+  <img src="javascript.png" alt="javascript" width="30px" height="30px"/>
   <span>Javascript<i>(ES5/ES6)</i>&nbsp;&nbsp;</span>
 
-  <img src="https://github.com/dschreiter/images/blob/master/react.png" alt="react" width="30px" height="30px"/> 
+  <img src="react.png" alt="react" width="30px" height="30px"/> 
   <span>React &nbsp;&nbsp;</span>
   
-  <img src="https://github.com/dschreiter/images/blob/master/icon.png" alt="reactHooks" width="30px" height="30px" styles="display:inline"/>
+  <img src="icon.png" alt="reactHooks" width="30px" height="30px" styles="display:inline"/>
   <span>Hooks &nbsp;&nbsp;</span>
 </div>
 
@@ -33,16 +33,16 @@
 
 <div>
 <strong>Tooling:</strong>
-  <img src="https://github.com/dschreiter/images/blob/master/babel.png" alt="babel" width="30px" height="30px"/>
+  <img src="babel.png" alt="babel" width="30px" height="30px"/>
   <span>Babel &nbsp;&nbsp;</span>
 
-  <img src="https://github.com/dschreiter/images/blob/master/git.png" alt="git" width="30px" height="30px"/>
+  <img src="git.png" alt="git" width="30px" height="30px"/>
   <span>Git &nbsp;&nbsp;</span>
   
-  <img src="https://github.com/dschreiter/images/blob/master/webpack.png" alt="webpack" width="30px" height="30px"/>
+  <img src="webpack.png" alt="webpack" width="30px" height="30px"/>
   <span>Webpack &nbsp;&nbsp;</span>
 
-  <img src="https://github.com/dschreiter/images/blob/master/npm.png" alt="npm" width="30px" height="30px"/>
+  <img src="npm.png" alt="npm" width="30px" height="30px"/>
   <span>NPM &nbsp;&nbsp;</span>
 </div>
 
@@ -50,10 +50,10 @@
 
 <div>
   <strong> Database:</strong>
-  <img src="https://github.com/dschreiter/images/blob/master/mysql.png" alt="react" width="40px" height="40px"/>
+  <img src="mysql.png" alt="mysql" width="40px" height="40px"/>
   <span>MySQL &nbsp;&nbsp;</span>
    
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.IWd-r7ijiZtp1AEbOB6ViQHaE8%26pid%3DApi&f=1" alt="react" width="30px" height="30px"/>
+  <img src="oracle.jpeg" alt="oracle" width="30px" height="30px"/>
   <span>PL/SQL &nbsp;&nbsp;</span>
 </div>
 
