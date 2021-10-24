@@ -13,7 +13,7 @@
 
 <div>
     <strong>Front End:</strong> 
-  <img src="https://github.com/dschreiter/images/blob/master/html.png" alt="html5" width="30px" height="30px" styles="display:inline"/>
+  <img src="images/html.png" alt="html5" width="30px" height="30px" styles="display:inline"/>
   <span>HTML5 &nbsp;&nbsp;</span>
 
   <img src="https://github.com/dschreiter/images/blob/master/css.png" alt="css" width="30px" height="30px"/>
