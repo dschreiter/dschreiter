@@ -5,7 +5,7 @@
 #### Actively seeking new opportunities! 
 * <strong>Practical:</strong> <i>I know how to sit down & knock out tickets in the real world</i>
 * <strong>Collaborative:</strong> <i>An opportunity to inspire and be inspired while building exciting projects with cool & creative people</i>
-* <strong>Ego?</strong> <i> Wim Hof said it best "No Ego, We Go". There is always more to know, realizing that is the first step to our growth.</i>
+* <strong>Ego?</strong> <i> Wim Hof said it best "No Ego, We Go". There is always more to know, realizing that is the first step to our growth</i>
 * <strong>Excited to Learn More About: </strong><i>Sketch, Svelte, Node.js, Mongo DB</i>
 
 
