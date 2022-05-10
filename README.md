@@ -1,3 +1,4 @@
+<!---
 ### About Me
 
 👋  Thanks for stopping by, I am a inqusitive <strong>Self-Taught Developer</strong> with 5+ years professional experience.  When I'm not writing code, I am writing music, engaged in continuous learning, or meditating in nature.
@@ -57,7 +58,7 @@
   <span>PL/SQL &nbsp;&nbsp;</span>
 </div>
 
-<!---
+
 
 Front-End:    HTML 5   ||    CSS3     ||     Javascript (ES5/ES6)    ||    ReactJS   ||  React Hooks
 Tooling:      Babel    || NPM ||  Git ||  Webpack 
