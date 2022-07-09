@@ -1,4 +1,4 @@
-
+<!--
 ### About Me
 
 👋  Thanks for stopping by, I am a inqusitive <strong>Self-Taught Developer</strong> with 5+ years professional experience.  When I'm not writing code, I am writing music, engaged in continuous learning, or meditating in nature.
@@ -7,6 +7,7 @@
 
 -->
 
+<!--
 * <strong>Practical:</strong> <i>I know how to sit down & knock out tickets in the real world</i>
 * <strong>Collaborative:</strong> <i>An opportunity to inspire and be inspired while building exciting projects with cool & creative people</i>
 * <strong>Ego?</strong> <i> Wim Hof said it best "No Ego, We Go". There is always more to know, realizing that is the first step to our growth</i>
@@ -63,12 +64,11 @@
 
 
 
-Front-End:    HTML 5   ||    CSS3     ||     Javascript (ES5/ES6)    ||    ReactJS   ||  React Hooks
-Tooling:      Babel    || NPM ||  Git ||  Webpack 
 
+<!--
 dschreiter/dschreiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-<!--
+
 
 - 👋 Hi, I’m @dschreiter
 - 👀 I’m interested in ...
