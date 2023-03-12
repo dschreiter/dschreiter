@@ -1,7 +1,7 @@
 
 ### About Me
 
-👋  Thanks for stopping by, I am a inqusitive <strong>Self-Taught Developer</strong> with 7+ years professional experience.  When I'm not writing code, I am writing music, engaged in continuous learning, or meditating in nature.
+👋  Thanks for stopping by, I am a inqusitive self taught developer with 7+ years professional experience.  When I'm not writing code, I am writing music, engaged in continuous learning, or meditating in nature.
 
 #### Actively seeking new opportunities! 
 
