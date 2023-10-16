@@ -1,17 +1,17 @@
 
 ### About Me
 
-👋  Thanks for stopping by, I am a inqusitive self taught developer with 7+ years professional experience.  When I'm not writing code, I am writing music, engaged in continuous learning, or meditating in nature.
+👋  Thanks for stopping by, I am a developer with 7+ years professional experience.  When I'm not writing code, I am writing music, engaged in continuous learning, or meditating in nature.
 
-#### Actively seeking new opportunities! 
-
-
+#### Actively seeking new opportunities 
 
 
-* <strong>Practical:</strong> <i>I know how to sit down & knock out tickets in the real world</i>
+
+
+* <strong>Practical:</strong> <i>As any programmer will tell you, the vast majority of coding involves fixing bugs. I know how to consistently resolve issues week in and week out while continually seeking ways to simplify.</i>
 * <strong>Collaborative:</strong> <i>An opportunity to inspire and be inspired while building exciting projects with cool & creative people</i>
-* <strong>Ego?</strong> <i> Wim Hof said it best "No Ego, We Go". There is always more to know</i>
-* <strong>Excited to Learn More About: </strong><i>Sketch, Svelte, Node.js</i>
+* <strong>Ego?</strong> <i>Wim Hof put it best: "No Ego, We Go."</i>
+* <strong>Currently Learning More About: </strong><i>Node.js</i>
 
 
 ### Languages and Tools
