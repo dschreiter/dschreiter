@@ -11,7 +11,14 @@
 * <strong>Practical:</strong> <i>To build an app that will scale, is reusable, maintainable, and avoids magic that no developer can discern, this is what it means to succeed in the world of software development</i>
 * <strong>Collaborative:</strong> <i>An opportunity to inspire and be inspired while building exciting projects with cool & creative people</i>
 * <strong>Ego?</strong> <i>Wim Hof put it best: "No Ego, We Go."</i>
-* <strong>Currently Learning More About: </strong><i>Node.js, supaBase</i>
+* <strong>Currently Learning More About: </strong>
+  <ul>     
+      <li><i>Python & Django</i></li>
+      <li><i>Node.js & Express</i></li>
+      <li><i>supaBase, Mongo DB</i></li>
+      <li><i>AI Prompt Enigneering</i></li>
+      <li><i>Mozart, Korean Cooking</i></li> 
+  </ul>
 
 
 ### Languages and Tools
